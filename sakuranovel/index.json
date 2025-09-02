@@ -1,18 +1,8 @@
 {
-  "name": "Sakuranovel",
+  "name": "SakuraNovel",
   "id": "sakuranovel",
-  "version": 1,
-  "author": "crunchy999",
-  "lang": "id",
   "baseUrl": "https://sakuranovel.id",
-  "icon": "icon.png",
-  "sources": [
-    {
-      "id": "sakuranovel",
-      "name": "Sakuranovel",
-      "lang": "id",
-      "baseUrl": "https://sakuranovel.id",
-      "type": "novel"
-    }
-  ]
+  "version": 1,
+  "langs": ["id"],
+  "scripts": ["sakuranovel.lua"]
 }
