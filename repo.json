@@ -1,13 +1,10 @@
 {
-  "name": "Indo Novel Repo",
-  "author": "crunchy999",
-  "version": 1,
-  "sources": [
+  "name": "Shosetsu Indo Repo",
+  "description": "Repository extension Indonesia",
+  "repos": [
     {
-      "id": "sakuranovel",
-      "name": "Sakuranovel",
-      "lang": "id",
-      "url": "sakuranovel/index.json"
+      "name": "SakuraNovel",
+      "url": "https://raw.githubusercontent.com/crunchy999/shosetsu-indo-repo/main/sakuranovel/index.json"
     }
   ]
 }
