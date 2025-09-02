@@ -1,0 +1,16 @@
+{
+  "libraries": [],
+  "scripts": [
+    {
+      "name": "SakuraNovel",
+      "fileName": "SakuraNovel",
+      "imageURL": "https://raw.githubusercontent.com/crunchy999/shosetsu-indo-repo/main/icons/SakuraNovel.png",
+      "id": 10001,
+      "lang": "ind",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ],
+  "styles": []
+}
