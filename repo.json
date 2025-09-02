@@ -1,0 +1,13 @@
+{
+  "name": "Indo Novel Repo",
+  "author": "crunchy999",
+  "version": 1,
+  "sources": [
+    {
+      "id": "sakuranovel",
+      "name": "Sakuranovel",
+      "lang": "id",
+      "url": "sakuranovel/index.json"
+    }
+  ]
+}
