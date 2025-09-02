@@ -1,9 +1,0 @@
-{
-  "name": "SakuraNovel",
-  "id": "sakuranovel",
-  "baseUrl": "https://sakuranovel.id",
-  "version": 1,
-  "langs": ["id"],
-  "scripts": ["sakuranovel.lua"],
-  "description": "Extension untuk sakuranovel.id — search, latest, chapter list, content"
-}
